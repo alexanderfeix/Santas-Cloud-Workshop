@@ -1,0 +1,23 @@
+body {
+    background: #0b1b29;
+    color: #fff;
+}
+
+.snowflake {
+    position: fixed;
+    top: -10px;
+    left: 50%;
+    color: white;
+    font-size: 1em;
+    animation: fall linear infinite;
+}
+
+@keyframes fall {
+    0% {
+        transform: translateX(0) translateY(0);
+    }
+
+    100% {
+        transform: translateX(-200px) translateY(100vh);
+    }
+}
