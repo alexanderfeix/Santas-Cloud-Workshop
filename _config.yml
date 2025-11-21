@@ -1,6 +1,1 @@
 title: "Weihnachtsgeschichte 🎄"
-theme: jekyll-theme-cayman
-
-# Damit Jekyll deine Styles korrekt lädt
-plugins:
-  - jekyll-include-cache
