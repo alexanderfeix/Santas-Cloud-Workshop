@@ -4,7 +4,7 @@ Herzlich willkommen zu einem spannenden Coding-Adventskalender, welcher deine Sk
 
 In dem Weihnachtsprojekt wirst du eine Fullstack-Application bauen, welche es dir ermöglicht viele neue Technolgien kennenzulernen und anzuwenden. Zusätzlich kannst du das Projekt dann mit in dein GitHub Portfolio aufnehmen. 
 
-✨ Für jeden Adventstag gibt es ein eigenes Kapitel einer Adventsgeschichte, welche die tägliche Aufgabe mit Weihnachtsstimmung verbindet. Die gesamte Geschichte ist in `./weihnachtsgeschichte` zu finden.
+✨ Für jeden Adventstag gibt es ein eigenes Kapitel einer Adventsgeschichte, welche die tägliche Aufgabe mit Weihnachtsstimmung verbindet.
 
 ## 🎄 Die Adventsgeschichte
 Im hohen Norden kämpft Santa Claus mit der Digitalisierung seines Geschenkbetriebs.
@@ -43,6 +43,35 @@ Generiert Texte und/oder Bilder für Weihnachtskarten:
 7. 📜 **North Pole Chronicle (Blog-Automation)**
     Automatisch generierter Tagesbericht:
     "❄️ Heute haben die Wichtel 244 Teddybären hergestellt…"
+
+## 🎄 Weihnachtsgeschichte
+
+👉🏼 **Hier findest du alle 24 Kapitel:**
+
+- [01. Dezember](docs/01.Dezember.md)
+- [02. Dezember](docs/02.Dezember.md)
+- [03. Dezember](docs/03.Dezember.md)
+- [04. Dezember](docs/04.Dezember.md)
+- [05. Dezember](docs/05.Dezember.md)
+- [06. Dezember](docs/06.Dezember.md)
+- [07. Dezember](docs/07.Dezember.md)
+- [08. Dezember](docs/08.Dezember.md)
+- [09. Dezember](docs/09.Dezember.md)
+- [10. Dezember](docs/10.Dezember.md)
+- [11. Dezember](docs/11.Dezember.md)
+- [12. Dezember](docs/12.Dezember.md)
+- [13. Dezember](docs/13.Dezember.md)
+- [14. Dezember](docs/14.Dezember.md)
+- [15. Dezember](docs/15.Dezember.md)
+- [16. Dezember](docs/16.Dezember.md)
+- [17. Dezember](docs/17.Dezember.md)
+- [18. Dezember](docs/18.Dezember.md)
+- [19. Dezember](docs/19.Dezember.md)
+- [20. Dezember](docs/20.Dezember.md)
+- [21. Dezember](docs/21.Dezember.md)
+- [22. Dezember](docs/22.Dezember.md)
+- [23. Dezember](docs/23.Dezember.md)
+- [24. Dezember](docs/24.Dezember.md)
 
 
 
@@ -143,7 +172,6 @@ Ohne Sicherheit fliegt Santa nirgendwo hin.
 - Live Rentier-Tracking-Map
 - Weihnachtsdesign, Animationen, Snowfall
 - Dashboard für Trends, Produktion & Elfenleistung
-
 
 ## 📚 Weitere Informationen
 Für diesen Adventskalender werden keine Lösungen bereitgestellt, sondern nur die Aufgabenstellungen. Wenn du an Weihnachten mit dem Projekt fertig bist, kannst du es natürlich sehr gerne in dein GitHub Portfolio aufnehmen, und deine Lösung teilen. 
