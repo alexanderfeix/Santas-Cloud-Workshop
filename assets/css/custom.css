@@ -1,6 +1,6 @@
 /* Hintergrund der gesamten Seite */
 body {
-    background-color: #fcece4 !important;
+    background-color: #F0B9B9 !important;
     /* leichtes warmes Weiß */
     color: #2f2f2f !important;
     /* dunkles Grau für Lesbarkeit */
@@ -46,9 +46,4 @@ pre {
 .snowstorm {
     z-index: 9999 !important;
     pointer-events: none !important;
-}
-
-.markdown-body hr {
-    border: 0;
-    border-top: 2px solid rgba(255, 255, 255) !important;
 }
