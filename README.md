@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="/assets/css/custom.css">
+<link rel="stylesheet" href="assets/css/custom.css">
 
 # 🎅✨ Santa’s Cloud Workshop – Eine Weihnachtsgeschichte als interaktives, AI-driven Cloud-System
 
