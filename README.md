@@ -180,4 +180,9 @@ Für diesen Adventskalender werden keine Lösungen bereitgestellt, sondern nur d
 
 **✨ Und nun wünsche ich dir viel Spaß mit der Weihnachtsgeschichte! 🎄**
 
-<script src="assets/js/snowstorm.js"></script>
+<script src="assets/js/snowstorm-min.js"></script>
+<script>
+  snowStorm.flakesMaxActive = 96;
+  snowStorm.useTwinkleEffect = true;
+  snowStorm.zIndex = 9999;
+</script>
