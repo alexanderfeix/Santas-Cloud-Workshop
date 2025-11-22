@@ -1,6 +1,6 @@
 /* Hintergrund der gesamten Seite */
 body {
-    background-color: #D6CAA7 !important;
+    background-color: #d3c9b0 !important;
     /* leichtes warmes Weiß */
     color: #2f2f2f !important;
     /* dunkles Grau für Lesbarkeit */
@@ -36,7 +36,7 @@ hr {
 
 code,
 pre {
-    background-color: #D6CAA7 !important;
+    background-color: #fff0ed !important;
     /* rosiges Weiß */
     color: #004d22 !important;
     /* dunkleres Grün */
