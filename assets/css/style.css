@@ -1,12 +1,6 @@
-body {
-    background: #faf7f2;
-    color: #333;
-}
-
-a {
-    color: #b30000;
-}
-
-a:hover {
-    color: #006400;
+:root {
+    --primary-color: #b30000;
+    --secondary-color: #006400;
+    --highlight: #d4af37;
+    --background: #faf7f2;
 }

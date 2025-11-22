@@ -1,4 +1,7 @@
-<link rel="stylesheet" href="/assets/css/style.css">
+<head>
+    <link rel="stylesheet" href="/assets/css/style.css">
+    <script type="text/javascript" src="/assets/css/snowstorm.js"></script>
+</head>
 
 # 🎅✨ Santa’s Cloud Workshop – Eine Weihnachtsgeschichte als interaktives, AI-driven Cloud-System
 
