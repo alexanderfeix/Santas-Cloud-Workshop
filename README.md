@@ -185,4 +185,5 @@ Für diesen Adventskalender werden keine Lösungen bereitgestellt, sondern nur d
   snowStorm.flakesMaxActive = 96;
   snowStorm.useTwinkleEffect = true;
   snowStorm.zIndex = 9999;
+  snowStorm.
 </script>
