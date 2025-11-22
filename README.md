@@ -1,3 +1,10 @@
+<script src="/assets/js/snowstorm-min.js"></script>
+<script>
+  snowStorm.snowColor = '#ffffff';     // Farbe der Schneeflocken
+  snowStorm.flakesMaxActive = 96;      // Anzahl aktiver Schneeflocken
+  snowStorm.useTwinkleEffect = true;   // optional: Funkeln
+</script>
+
 <link rel="stylesheet" href="/assets/css/custom.css">
 
 # 🎅✨ Santa’s Cloud Workshop – Eine Weihnachtsgeschichte als interaktives, AI-driven Cloud-System
