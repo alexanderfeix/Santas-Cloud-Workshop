@@ -1,10 +1,3 @@
-<script src="/assets/js/snowstorm-min.js"></script>
-<script>
-  snowStorm.snowColor = '#ffffff';     // Farbe der Schneeflocken
-  snowStorm.flakesMaxActive = 96;      // Anzahl aktiver Schneeflocken
-  snowStorm.useTwinkleEffect = true;   // optional: Funkeln
-</script>
-
 <link rel="stylesheet" href="/assets/css/custom.css">
 
 # 🎅✨ Santa’s Cloud Workshop – Eine Weihnachtsgeschichte als interaktives, AI-driven Cloud-System
@@ -186,3 +179,10 @@ Ohne Sicherheit fliegt Santa nirgendwo hin.
 Für diesen Adventskalender werden keine Lösungen bereitgestellt, sondern nur die Aufgabenstellungen. Wenn du an Weihnachten mit dem Projekt fertig bist, kannst du es natürlich sehr gerne in dein GitHub Portfolio aufnehmen, und deine Lösung teilen. 
 
 **✨ Und nun wünsche ich dir viel Spaß mit der Weihnachtsgeschichte! 🎄**
+
+<script src="/assets/js/snowstorm-min.js"></script>
+<script>
+  snowStorm.snowColor = '#ffffff';     // Farbe der Schneeflocken
+  snowStorm.flakesMaxActive = 96;      // Anzahl aktiver Schneeflocken
+  snowStorm.useTwinkleEffect = true;   // optional: Funkeln
+</script>
