@@ -1,0 +1,43 @@
+/* Hintergrund der gesamten Seite */
+body {
+    background-color: #fff8f6 !important;
+    /* leichtes warmes Weiß */
+    color: #2f2f2f !important;
+    /* dunkles Grau für Lesbarkeit */
+}
+
+/* Überschriften in Weihnachts-Rot */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #b30000 !important;
+    /* kräftiges Weihnachtsrot */
+}
+
+/* Links im Weihnachtsgrün */
+a {
+    color: #006b2d !important;
+    /* Tannengrün */
+    font-weight: 600;
+}
+
+/* Hover-Effekt: Rot wie Weihnachtskugeln */
+a:hover {
+    color: #cc0000 !important;
+}
+
+/* Optional: Rahmen, Linien, Code-Felder etwas festlicher */
+hr {
+    border-color: #b30000 !important;
+}
+
+code,
+pre {
+    background-color: #fff0ed !important;
+    /* rosiges Weiß */
+    color: #004d22 !important;
+    /* dunkleres Grün */
+}
