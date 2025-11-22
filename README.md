@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="assets/css/custom.css">
 
-# 🎅✨ Santa’s Cloud Workshop – Eine Weihnachtsgeschichte als interaktives, AI-driven Cloud-System
+# 🎅🏻✨ Santa’s Cloud Workshop – Eine Weihnachtsgeschichte als interaktives, AI-driven Cloud-System
 
 Herzlich willkommen zu einem spannenden Coding-Adventskalender, welcher deine Skills in moderner Softwaretechnik, Cloud Technologien und KI erweitert, und gleichzeitig eine spannende Weihnachtsgeschichte erzählt. Das Projekt ist für Anfänger als auch für fortgeschrittene Studenten geeignet, am besten hast du bereits ein Grundverständnis von moderner Softwareentwicklung, weiteres lernst du aber Tag für Tag in dem Adventskalender. Die Aufgabenpakete sind so gestaltet, dass du ca. 60 bis 90 Minuten pro Tag für die Lösung der Entwicklungsaufgaben benötigst, natürlich abhängig von deinen Vorkenntnissen.
 
@@ -180,7 +180,7 @@ Für diesen Adventskalender werden keine Lösungen bereitgestellt, sondern nur d
 
 **✨ Und nun wünsche ich dir viel Spaß mit der Weihnachtsgeschichte! 🎄**
 
-<script src="/assets/js/snowstorm-min.js"></script>
+<script src="assets/js/snowstorm-min.js"></script>
 <script>
 window.onload = function() {
   snowStorm.snowColor = '#ffffff';
