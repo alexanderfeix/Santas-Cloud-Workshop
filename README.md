@@ -181,11 +181,3 @@ Für diesen Adventskalender werden keine Lösungen bereitgestellt, sondern nur d
 **✨ Und nun wünsche ich dir viel Spaß mit der Weihnachtsgeschichte! 🎄**
 
 <script src="assets/js/snowstorm-min.js"></script>
-<script>
-window.onload = function() {
-  snowStorm.snowColor = '#ffffff';
-  snowStorm.flakesMaxActive = 96;
-  snowStorm.useTwinkleEffect = true;
-  snowStorm.zIndex = 9999;
-};
-</script>
