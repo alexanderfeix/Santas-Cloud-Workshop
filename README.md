@@ -182,7 +182,9 @@ Für diesen Adventskalender werden keine Lösungen bereitgestellt, sondern nur d
 
 <script src="/assets/js/snowstorm-min.js"></script>
 <script>
-  snowStorm.snowColor = '#ffffff';     // Farbe der Schneeflocken
-  snowStorm.flakesMaxActive = 96;      // Anzahl aktiver Schneeflocken
-  snowStorm.useTwinkleEffect = true;   // optional: Funkeln
+  window.onload = function() {
+    snowStorm.snowColor = '#ffffff';
+    snowStorm.flakesMaxActive = 96;
+    snowStorm.useTwinkleEffect = true;
+  }
 </script>
