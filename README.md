@@ -182,9 +182,10 @@ Für diesen Adventskalender werden keine Lösungen bereitgestellt, sondern nur d
 
 <script src="/assets/js/snowstorm-min.js"></script>
 <script>
-document.addEventListener("DOMContentLoaded", function() {
+window.onload = function() {
   snowStorm.snowColor = '#ffffff';
   snowStorm.flakesMaxActive = 96;
   snowStorm.useTwinkleEffect = true;
-});
+  snowStorm.zIndex = 9999;
+};
 </script>

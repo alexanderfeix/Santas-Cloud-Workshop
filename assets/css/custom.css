@@ -41,3 +41,9 @@ pre {
     color: #004d22 !important;
     /* dunkleres Grün */
 }
+
+#snowstormcanvas,
+.snowstorm {
+    z-index: 9999 !important;
+    pointer-events: none !important;
+}
