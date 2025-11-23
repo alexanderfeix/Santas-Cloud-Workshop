@@ -1,1 +1,3 @@
 title: "🎄 Santa’s Cloud Workshop"
+include:
+  - head.html
