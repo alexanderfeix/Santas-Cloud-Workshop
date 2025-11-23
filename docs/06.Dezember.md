@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="../assets/css/custom.css">
+<link rel="shortcut icon" type="image/x-icon" href="assets/favicon.ico">
 <script src="../assets/js/snowstorm-min.js"></script>
 <script>
   snowStorm.flakesMaxActive = 96;
