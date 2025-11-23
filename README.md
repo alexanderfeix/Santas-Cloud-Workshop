@@ -76,7 +76,7 @@ Generiert Texte und/oder Bilder für Weihnachtskarten:
 - [24. Dezember](docs/24.Dezember.md)
 
 👉🏼 Falls du Schwierigkeiten hast, findest du hier technische Hinweise und Ideen:
-[Technische Hinweise](docs/Technische_Hilfe.md)
+[Technische Hinweise](docs/Technische_Hilfen.md)
 
 
 ## ✨ Was du in diesem Adventskalender lernen wirst
